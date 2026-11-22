@@ -11,14 +11,14 @@
   },
   "dependencies": {
     "svix": "^1.96.0",
-    "zod": "4.4.3"
+    "zod": "^4.6.7"
   },
   "peerDependencies": {
     "openclaw": "*"
   },
   "devDependencies": {
     "@types/node": "^25.9.3",
-    "typescript": "^6.0.3",
-    "openclaw": "2026.8.1-beta.3"
+    "openclaw": "2026.8.1-beta.3",
+    "typescript": "^6.0.3"
   }
 }
